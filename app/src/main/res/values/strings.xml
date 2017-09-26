@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess a number!</string>
+    <string name="less">The entered number is less</string>
+    <string name="more">The entered number is more</string>
+    <string name="hit">You guessed!</string>
+    <string name="input_value">Enter number</string>
+    <string name="play_more">Play again</string>
+    <string name="try_to_guess">Try to guess the number (1 &#8211; 100)</string>
+    <string name="error">Incorrect input!</string>
+    <string name="restart">Restart</string>
+    <string name="number_attempts">Number of attempts: </string>
+    <string name="record">Your record: </string>
+    <string name="reset">Reset record</string>
+</resources>
